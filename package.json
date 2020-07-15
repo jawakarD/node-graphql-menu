@@ -1,0 +1,18 @@
+{
+  "name": "start-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jawakarD <jawakarsmith@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.10.0",
+    "dotenv": "^8.2.0",
+    "graphql": "^14.6.0",
+    "nodemon": "^2.0.2",
+    "sequelize": "^5.21.3",
+    "sqlite3": "^5.0.0"
+  },
+  "scripts": {
+    "start": "nodemon"
+  }
+}
